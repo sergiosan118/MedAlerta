@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "449189272162",
+    "firebase_url": "https://medalerta-3fd7e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "medalerta-3fd7e",
+    "storage_bucket": "medalerta-3fd7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449189272162:android:349b70bd70a8a83f06cf3b",
+        "android_client_info": {
+          "package_name": "com.medalerta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_hm0mUYlRfHN_s3GXoJtNL4MfjcrIP9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
